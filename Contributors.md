@@ -7520,4 +7520,5 @@ Stephen kihuni
 - [thinhntr](https://github.com/thinhntr)
 - [Marcos Chalet](https://github.com/marcosChalet)
 - [Iago Saito](https://github.com/iagosaito)
+- [Arthur Salazar](https://github.com/artSalazar)
 <!-- prettier-ignore-end -->
